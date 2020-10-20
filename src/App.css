@@ -1,0 +1,63 @@
+.align{
+  display: flex;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+
+.companiesContainer{
+  margin-left: 0.1rem;
+  margin-right: 7rem;
+  margin-bottom: 0.7rem;
+  margin-top: 0.7rem;
+}
+
+.innerContainer{
+  box-shadow: 0px 2px 4px 0px #888888;
+  margin-right: 0rem;
+  margin-top: 1rem;
+  margin-left: 0rem;
+  min-height: 8rem;
+  min-width: 18rem;
+}
+
+.pos{
+  border: 0.5px solid #888888;
+  box-shadow: 0px 1px 6px 12px #888888;
+  align-content: center;
+  border-radius: 5px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  max-width:40.5rem;
+  min-height: 17.5rem;
+
+}
+
+.btn{
+  float: right;
+  margin-right: 2rem;
+  margin-top: 2rem;
+}
+
+.cancel{
+    color: rgba(66, 2, 2, 0.212);
+    border: none;
+    background: none;
+    font-weight : bold ;
+    margin-right: 1rem;
+    outline:none;
+  }
+  .active, .cancel:hover { color:  rgba(100,100,100,.7); outline:none;}
+
+.applyFilter{
+    color: rgb(247, 233, 233);
+    background-color: #C71585;
+    border-radius: 1rem;
+    border: none;
+    padding: 12px 30px;
+    font-weight : bold ;
+    outline:none;
+}
+.active, .applyFilter:hover {background-color: #6e174e; outline:none;}
