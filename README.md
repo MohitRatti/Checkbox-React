@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## No additional library is used.
+
 ## Folder Structure
 
 After creation, your project should look like this:
